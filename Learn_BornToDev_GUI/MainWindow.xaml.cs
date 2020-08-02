@@ -26,15 +26,23 @@ namespace Learn_BornToDev_GUI
         }
         private void BtnCalculate_Click(object sender, RoutedEventArgs e)
         {
-            int Income = int.Parse(txtIncome.Text);
-            int Expenditure = int.Parse(txtExpenditure.Text);
-            int Thing = int.Parse(txtThing.Text);
+            try
+            {
+                double Income = double.Parse(txtIncome.Text);
+                double Expenditure = double.Parse(txtExpenditure.Text);
+                double Thing = double.Parse(txtThing.Text);
 
-            int Balance = Income - Expenditure;
-            int Assess = Thing / Balance;
+                double Balance = Income - Expenditure;
+                double Assess = Thing / Balance;
 
-            txtAssess.Text = Assess.ToString();
-            txtAssess.IsReadOnly = true;
+                txtAssess.Text = Assess.ToString();
+                txtAssess.IsReadOnly = true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("ERROR " + ex.Message);
+            }
+            
         }
     }
 }
