@@ -1,0 +1,15 @@
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe.config
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.pdb
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csprojAssemblyReference.cache
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.g.cs
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\App.g.cs
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.cache
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.lref
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.baml
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.g.resources
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.Properties.Resources.resources
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.GenerateResource.cache
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.CoreCompileInputs.cache
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.exe
+D:\Learn_BornToDev\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.pdb
