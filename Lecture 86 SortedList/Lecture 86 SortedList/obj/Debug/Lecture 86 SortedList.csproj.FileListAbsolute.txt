@@ -1,0 +1,15 @@
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\bin\Debug\Lecture 86 SortedList.exe.config
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\bin\Debug\Lecture 86 SortedList.exe
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\bin\Debug\Lecture 86 SortedList.pdb
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList.csprojAssemblyReference.cache
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\MainWindow.g.cs
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\App.g.cs
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList_MarkupCompile.cache
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList_MarkupCompile.lref
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\MainWindow.baml
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList.g.resources
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture_86_SortedList.Properties.Resources.resources
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList.csproj.GenerateResource.cache
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList.csproj.CoreCompileInputs.cache
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList.exe
+D:\Learn_BornToDev\Lecture 86 SortedList\Lecture 86 SortedList\obj\Debug\Lecture 86 SortedList.pdb
